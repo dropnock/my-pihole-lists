@@ -1,1 +1,6 @@
-
+192.168.0.246 pindb.pin.lan
+192.168.0.245 docker01.local.dropnock.com
+192.168.0.247 pinpg.local.dropnock.com
+192.168.0.248 tooljet.local.dropnock.com
+192.168.0.202 prntsrv.local.dropnock.com
+192.168.0.201 ocx.local.dropnock.com
